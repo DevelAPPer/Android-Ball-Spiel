@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Spiel</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="wilkommen">Herzlich Wilkommen bei meinem ersten Spiel!</string>
+    <string name="leicht">Leicht</string>
+    <string name="mittel">Mittel</string>
+    <string name="schwer">Schwer</string>
+    <string name="schließen">Schließen</string>
+    <string name="infos">Diese App wurde von DevelAPPer programmiert.</string>
+    <string name="informationen">Informationen</string>
+    <string name="gewonnen">Herzlichen Glückwunsch! Du hast gewonnen!</string>
+    <string name="over">Over</string>
+    <string name="gameover">Leider verloren!</string>
+
+</resources>
